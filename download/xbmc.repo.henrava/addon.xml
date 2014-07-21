@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="xbmc.repo.henrava" name="Henrava Repository" version="1.0.1" provider-name="Henrava">
+    <extension point="xbmc.addon.repository" name="Henrava skin Repository">
+        <info>http://github.com/henrava/xbmc.repo.henrava/raw/master/addons.xml</info>
+        <checksum>http://github.com/henrava/xbmc.repo.henrava/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/henrava/xbmc.repo.henrava/raw/master/download/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Henrava Repository</summary>
+        <description>Repo for Refless skin</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
